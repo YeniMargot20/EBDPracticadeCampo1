@@ -10,6 +10,7 @@ namespace PracticadeCampo1
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
